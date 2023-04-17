@@ -1,0 +1,2 @@
+First line of input
+Second line of input
